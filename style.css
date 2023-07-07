@@ -3,8 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
-
 body {
 background-color: #2B807B;
     height: 100vh;
@@ -14,10 +12,7 @@ background-color: #2B807B;
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
-
-
 #cajaBoton {
     border: 5px rgb(0, 0, 0) solid;
     width: 450px;
@@ -30,7 +25,6 @@ background-color: #2B807B;
     font-weight: bold;
     font-size: 65px;
 }
-
 button{
 font-size: 30px;
 color:white;
@@ -42,9 +36,7 @@ border: 3px solid #00cba8;
 user-select: none;
 cursor: pointer;
 transition-duration: 0.5s;
-
 }
-
 button:hover{
     background-color: #059d83;
 }
